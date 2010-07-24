@@ -1,0 +1,14 @@
+1.4
+[*] rename class to EUploadifyWidget
+
+1.3
+[+] readme_ru, readme_en.
+[*] Code style fixes.
+[*] Compatible with Yii 1.1.
+[*] New naming conventions.
+
+1.2
+[*] Transformed module into widget extension.
+
+1.1
+[+] Initial public release.
