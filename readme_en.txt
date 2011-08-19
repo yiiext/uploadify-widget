@@ -5,6 +5,7 @@ Usage
 -----
 
 In a view `views/form.php`:
+
 ~~~
 [php]
 $this->widget('ext.yiiext.widgets.uploadify.EUploadifyWidget',array(
@@ -27,6 +28,7 @@ $this->widget('ext.yiiext.widgets.uploadify.EUploadifyWidget',array(
 ~~~
 
 Use beta version 3.0.0
+
 ~~~
 [php]
 $this->widget('ext.yiiext.widgets.uploadify.EUploadifyWidget',array(
@@ -57,6 +59,7 @@ We will need:
 ### Model
 
 `UploadifyFile.php`:
+
 ~~~
 [php]
 class UploadifyFile extends CFormModel
